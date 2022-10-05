@@ -1,0 +1,17 @@
+.round {
+  margin: 30px;
+  box-sizing: border-box;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  background-color: #EEF5E6;
+  border:30px solid #A2CB92;
+  border-right: 30px solid #D5E5C0;
+}
+
+.text {
+  padding-top: 45px;
+  font-size: 45px;
+  text-align: center;
+  margin: 0;
+}
