@@ -1,0 +1,16 @@
+.indicator {
+  margin-top: 100px;
+  width: 100%;
+  height: 120px;
+  background: linear-gradient(to bottom, #313131 0%, #666666 50%, #949494 90%);
+  border-radius: 50px;
+  border: 2px solid black;
+}
+
+.progress {
+  width: 40%;
+  height: 120px;
+  border-radius: 45px 0 0px 45px;
+  background: linear-gradient(to bottom, #65B6F6 0%, #3F97EC 50%, #6FBDF7 90%);
+  box-shadow: 5px 0px 10px 0px black;
+}
