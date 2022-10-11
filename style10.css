@@ -134,7 +134,7 @@ html {
   color: white;
 }
 
-@media (max-width:1400px) {
+@media (max-width: 1400px) {
   .menu {
     width: 100%;
   }
@@ -156,8 +156,9 @@ html {
   }
 
   .menu .menu_item .menu_img {
-    height: 251px;
+    object-fit: cover;
     width: 157px;
+    height: 251px;
   }
 }
 
@@ -182,7 +183,7 @@ html {
   }
 }
 
-@media (max-width:830px) {
+@media (max-width: 830px) {
   .container {
     width: 561px;
     margin: 0 auto;
@@ -228,7 +229,6 @@ html {
 
   .footer .footer_description {
     width: 344px;
-
   }
 
   .menu .menu_text {
